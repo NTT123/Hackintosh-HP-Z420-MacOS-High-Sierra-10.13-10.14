@@ -1,0 +1,92 @@
+34:832  0:217  Found UEFI Acpi 2.0 RSDP at CB76A000
+34:832  0:000  Saving ACPI tables from RSDP CB76A000 to EFI\CLOVER\ACPI\origin ...
+34:832  0:000   CB76A000: 'RSD PTR ', Rev: 2 (Acpi 2.0 or newer), Len: 36
+34:832  0:000    (Xsdt: CB76A090, Rsdt: CB76A028)
+34:832  0:000    CB76A090: 'XSDT', 'SLIC-WKS', Rev: 1, Len: 164
+34:832  0:000    CB76A028: 'RSDT', 'SLIC-WKS', Rev: 1, Len: 100
+34:832  0:000    Tables in Xsdt: 16
+34:832  0:000    0. CB771CB8: 'FACP', 'SLIC-WKS', Rev: 5, Len: 268
+34:832  0:000        (Dsdt: CB76A1C8, Facs: CBA01080, XDsdt: CB76A1C8, XFacs: 0)
+34:832  0:000        CB76A1C8: 'DSDT', 'SLIC-WKS', Rev: 2, Len: 31465
+34:832  0:000        CBA01080: 'FACS', Ver: 2, Len: 64
+34:832  0:000    1. CB771DC8: 'APIC', 'SLIC-WKS', Rev: 3, Len: 200
+34:832  0:000    2. CB771E90: 'FPDT', 'SLIC-WKS', Rev: 1, Len: 68
+34:832  0:000    3. CB771ED8: 'MCFG', 'OEMMCFG.', Rev: 1, Len: 60
+34:832  0:000    4. CB771F18: 'HPET', 'SLIC-WKS', Rev: 1, Len: 56
+34:832  0:000    5. CB771F50: 'UEFI', 'RstScuO', Rev: 1, Len: 298
+34:832  0:000    6. CB772080: 'SSDT', 'WMI', Rev: 1, Len: 22803
+34:832  0:000    7. CB777998: 'SLIC', 'SLIC-WKS', Rev: 1, Len: 374
+34:832  0:000    8. CB777B10: 'SSDT', 'CpuDef', Rev: 2, Len: 10449
+34:832  0:000    9. CB77A3E8: 'SSDT', 'CpuPm', Rev: 2, Len: 798336
+34:832  0:000    10. CB83D268: 'ASF!', ' HCG', Rev: 32, Len: 165
+34:832  0:000    11. CB83D310: 'MSDM', 'SLIC-WKS', Rev: 3, Len: 85
+34:832  0:000    12. CB83D368: 'TCPA', 'NAPAASF', Rev: 2, Len: 50
+34:832  0:000    13. CB83D3A0: 'IFEU', 'SLIC-WKS', Rev: 1, Len: 66
+34:832  0:000    14. CB83D3E8: 'UEFI', 'RstScuV', Rev: 1, Len: 92
+34:832  0:000    15. CB83D448: 'DMAR', 'OEMDMAR', Rev: 1, Len: 168
+34:832  0:000    Tables in Rsdt: 16
+34:832  0:000    0. CB76A140: 'FACP', 'SLIC-WKS', Rev: 2, Len: 132
+34:832  0:000        (Dsdt: CB76A1C8, Facs: CBA01040)
+34:832  0:000        CB76A1C8: 'DSDT', 'SLIC-WKS', Rev: 2, Len: 31465
+34:833  0:000        CBA01040: 'FACS', Ver: 0, Len: 64
+34:833  0:000    1. CB771DC8: 'APIC', 'SLIC-WKS', Rev: 3, Len: 200
+34:833  0:000    2. CB771E90: 'FPDT', 'SLIC-WKS', Rev: 1, Len: 68
+34:833  0:000    3. CB771ED8: 'MCFG', 'OEMMCFG.', Rev: 1, Len: 60
+34:833  0:000    4. CB771F18: 'HPET', 'SLIC-WKS', Rev: 1, Len: 56
+34:833  0:000    5. CB771F50: 'UEFI', 'RstScuO', Rev: 1, Len: 298
+34:833  0:000    6. CB772080: 'SSDT', 'WMI', Rev: 1, Len: 22803
+34:833  0:000    7. CB777998: 'SLIC', 'SLIC-WKS', Rev: 1, Len: 374
+34:833  0:000    8. CB777B10: 'SSDT', 'CpuDef', Rev: 2, Len: 10449
+34:833  0:000    9. CB77A3E8: 'SSDT', 'CpuPm', Rev: 2, Len: 798336
+34:833  0:000    10. CB83D268: 'ASF!', ' HCG', Rev: 32, Len: 165
+34:833  0:000    11. CB83D310: 'MSDM', 'SLIC-WKS', Rev: 3, Len: 85
+34:833  0:000    12. CB83D368: 'TCPA', 'NAPAASF', Rev: 2, Len: 50
+34:833  0:000    13. CB83D3A0: 'IFEU', 'SLIC-WKS', Rev: 1, Len: 66
+34:833  0:000    14. CB83D3E8: 'UEFI', 'RstScuV', Rev: 1, Len: 92
+34:833  0:000    15. CB83D448: 'DMAR', 'OEMDMAR', Rev: 1, Len: 168
+34:833  0:000  Found UEFI Acpi 1.0 RSDP at CB76A000
+34:833  0:000  Printing ACPI tables from RSDP CB76A000 ...
+34:833  0:000   CB76A000: 'RSD PTR ', Rev: 2 (Acpi 2.0 or newer), Len: 36
+34:833  0:000    (Xsdt: CB76A090, Rsdt: CB76A028)
+34:833  0:000    CB76A090: 'XSDT', 'SLIC-WKS', Rev: 1, Len: 164
+34:833  0:000    CB76A028: 'RSDT', 'SLIC-WKS', Rev: 1, Len: 100
+34:833  0:000    Tables in Xsdt: 16
+34:833  0:000    0. CB771CB8: 'FACP', 'SLIC-WKS', Rev: 5, Len: 268
+34:833  0:000        (Dsdt: CB76A1C8, Facs: CBA01080, XDsdt: CB76A1C8, XFacs: 0)
+34:833  0:000        CB76A1C8: 'DSDT', 'SLIC-WKS', Rev: 2, Len: 31465
+34:834  0:000        CBA01080: 'FACS', Ver: 2, Len: 64
+34:834  0:000    1. CB771DC8: 'APIC', 'SLIC-WKS', Rev: 3, Len: 200
+34:834  0:000    2. CB771E90: 'FPDT', 'SLIC-WKS', Rev: 1, Len: 68
+34:834  0:000    3. CB771ED8: 'MCFG', 'OEMMCFG.', Rev: 1, Len: 60
+34:834  0:000    4. CB771F18: 'HPET', 'SLIC-WKS', Rev: 1, Len: 56
+34:834  0:000    5. CB771F50: 'UEFI', 'RstScuO', Rev: 1, Len: 298
+34:834  0:000    6. CB772080: 'SSDT', 'WMI', Rev: 1, Len: 22803
+34:834  0:000    7. CB777998: 'SLIC', 'SLIC-WKS', Rev: 1, Len: 374
+34:834  0:000    8. CB777B10: 'SSDT', 'CpuDef', Rev: 2, Len: 10449
+34:834  0:000    9. CB77A3E8: 'SSDT', 'CpuPm', Rev: 2, Len: 798336
+34:834  0:000    10. CB83D268: 'ASF!', ' HCG', Rev: 32, Len: 165
+34:834  0:000    11. CB83D310: 'MSDM', 'SLIC-WKS', Rev: 3, Len: 85
+34:834  0:000    12. CB83D368: 'TCPA', 'NAPAASF', Rev: 2, Len: 50
+34:834  0:000    13. CB83D3A0: 'IFEU', 'SLIC-WKS', Rev: 1, Len: 66
+34:834  0:000    14. CB83D3E8: 'UEFI', 'RstScuV', Rev: 1, Len: 92
+34:834  0:000    15. CB83D448: 'DMAR', 'OEMDMAR', Rev: 1, Len: 168
+34:834  0:000    Tables in Rsdt: 16
+34:834  0:000    0. CB76A140: 'FACP', 'SLIC-WKS', Rev: 2, Len: 132
+34:834  0:000        (Dsdt: CB76A1C8, Facs: CBA01040)
+34:834  0:000        CB76A1C8: 'DSDT', 'SLIC-WKS', Rev: 2, Len: 31465
+34:835  0:000        CBA01040: 'FACS', Ver: 0, Len: 64
+34:835  0:000    1. CB771DC8: 'APIC', 'SLIC-WKS', Rev: 3, Len: 200
+34:835  0:000    2. CB771E90: 'FPDT', 'SLIC-WKS', Rev: 1, Len: 68
+34:835  0:000    3. CB771ED8: 'MCFG', 'OEMMCFG.', Rev: 1, Len: 60
+34:835  0:000    4. CB771F18: 'HPET', 'SLIC-WKS', Rev: 1, Len: 56
+34:835  0:000    5. CB771F50: 'UEFI', 'RstScuO', Rev: 1, Len: 298
+34:835  0:000    6. CB772080: 'SSDT', 'WMI', Rev: 1, Len: 22803
+34:835  0:000    7. CB777998: 'SLIC', 'SLIC-WKS', Rev: 1, Len: 374
+34:835  0:000    8. CB777B10: 'SSDT', 'CpuDef', Rev: 2, Len: 10449
+34:835  0:000    9. CB77A3E8: 'SSDT', 'CpuPm', Rev: 2, Len: 798336
+34:835  0:000    10. CB83D268: 'ASF!', ' HCG', Rev: 32, Len: 165
+34:835  0:000    11. CB83D310: 'MSDM', 'SLIC-WKS', Rev: 3, Len: 85
+34:835  0:000    12. CB83D368: 'TCPA', 'NAPAASF', Rev: 2, Len: 50
+34:835  0:000    13. CB83D3A0: 'IFEU', 'SLIC-WKS', Rev: 1, Len: 66
+34:835  0:000    14. CB83D3E8: 'UEFI', 'RstScuV', Rev: 1, Len: 92
+34:835  0:000    15. CB83D448: 'DMAR', 'OEMDMAR', Rev: 1, Len: 168

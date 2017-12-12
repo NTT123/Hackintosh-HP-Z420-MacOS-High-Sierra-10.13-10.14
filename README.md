@@ -1,3 +1,5 @@
+**Note: I recently updated my PC to 10.13.2, I put my EFI/CLOVER directory for macOS 10.13.2 in `10.13.2` directory. Have fun!**
+
 How to install MacOS Sierra 10.12.3 on HP Z420 Workstation.
 
 Overall, we will use Unibeast to create a USB Installer.
