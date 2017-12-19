@@ -6,7 +6,7 @@ Overall, we will use Unibeast to create a USB Installer.
 
 From my Mac OS X 10.10 or 10.11, download macOS Sierra Installer (go to App Store to download).
 
-Then, we use the lastest Unibeast (UniBeast 7.0.1) to create a bootable USB. However, we **have to** use kexts from **CustoMac Essential** package and put these kexts to /Volumes/EFI/EFI/CLOVER/kexts/Other/ directory (mount your EFI partition first!)
+Then, we use the recent Unibeast (UniBeast 7.0.1) to create a bootable USB. However, we **have to** use kexts from **CustoMac Essential** package and put these kexts to /Volumes/EFI/EFI/CLOVER/kexts/Other/ directory (mount your EFI partition first!)
 
 ### Here the Tricks 
 
