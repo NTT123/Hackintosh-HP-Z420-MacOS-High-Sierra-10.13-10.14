@@ -2,6 +2,7 @@
 
 **As @[Tomygames](https://github.com/Tomygames) suggested at [here](https://github.com/NTT123/Hackintosh-HP-Z420-MacOS-High-Sierra-10.13/issues/5#issuecomment-368083010). You need to "[a]ctivate Legacy ACPI CPU Tables in BIOS".**
 
+**Some detailed instructions to install macOS provided by @spellbound can be found [here](https://github.com/NTT123/Hackintosh-HP-Z420-MacOS-High-Sierra-10.13/issues/5#issuecomment-399620392).** 
 
 How to install MacOS Sierra 10.12.3 on HP Z420 Workstation.
 
