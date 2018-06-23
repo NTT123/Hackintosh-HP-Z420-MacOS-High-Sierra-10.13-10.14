@@ -1,6 +1,6 @@
 **Updated my macOS to 10.13.5 using App store without any problem.**
 
-**Note: I recently updated my PC to 10.13.2, I put my EFI/CLOVER directory for macOS 10.13.2 in `10.13.2` directory. Have fun!**
+**~~Note: I recently updated my PC to 10.13.2,~~ I put my EFI/CLOVER directory for macOS 10.13.2 in `10.13.2` directory. Have fun!**
 
 **As @[Tomygames](https://github.com/Tomygames) suggested at [here](https://github.com/NTT123/Hackintosh-HP-Z420-MacOS-High-Sierra-10.13/issues/5#issuecomment-368083010). You need to "[a]ctivate Legacy ACPI CPU Tables in BIOS".**
 
