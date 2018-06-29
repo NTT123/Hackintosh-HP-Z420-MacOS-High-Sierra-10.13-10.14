@@ -20,7 +20,7 @@ Then, we use the recent Unibeast (UniBeast 7.0.1) to create a bootable USB. Howe
 
 Note: I put my `/Volumes/EFI/EFI/CLOVER` directory and all kexts we need in the repo.
 
-- Install the lastest CLOVER (e.g., v2k4)
+- Install the latest CLOVER (e.g., v2k4)
 
 - We have to use flag `npci=0x2000` all the time.  (I also use `dart=1`)
 
@@ -34,7 +34,7 @@ Note: I put my `/Volumes/EFI/EFI/CLOVER` directory and all kexts we need in the 
 
 - HP Z420 crashes with many versions of FakeSMC and NullCPUPowerManagement.kext, so please **use those** in the repo!!!
 
-- At first, when we don't have Nvidia WEB drivers, we need to disable NVidia kext by flag `nv_disable=1`. We later can install lastest Nvidia Web driver for 10.12.3
+- At first, when we don't have Nvidia WEB drivers, we need to disable NVidia kext by flag `nv_disable=1`. We later can install latest Nvidia Web driver for 10.12.3
 (https://images.nvidia.com/mac/pkg/367/WebDriver-367.15.10.35f01.pkg), and we will not need that flag anymore.
 
 - Use SMBios of Mac Pro 5.1.
