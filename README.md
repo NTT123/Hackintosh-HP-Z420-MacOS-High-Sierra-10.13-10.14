@@ -1,3 +1,5 @@
+**June 29, 2018:** @[Andreas Henriksson](https://github.com/Nosskirneh) fixed USB 3.0 problem in a comment [here.](https://github.com/NTT123/Hackintosh-HP-Z420-MacOS-High-Sierra-10.13/issues/6#issuecomment-401310290)
+
 **Updated my macOS to 10.13.5 using App store without any problem.**
 
 **~~Note: I recently updated my PC to 10.13.2,~~ I put my EFI/CLOVER directory for macOS 10.13.2 in `10.13.2` directory. Have fun!**
