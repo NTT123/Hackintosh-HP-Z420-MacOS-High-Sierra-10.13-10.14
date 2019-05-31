@@ -1,3 +1,8 @@
+**May 31, 2019**. Updated to 10.14.5 without any problem. I used the same kexts. However there are two important notes:
+
+1. Update to the latest CLOVER: Clover_v2.4k_r4934
+2. Copy the efi drivers at https://github.com/acidanthera/AppleSupportPkg/releases to the directories `EFI/CLOVER/Drivers64UEFI` and `EFI/CLOVER/Drivers64`
+
 **June 29, 2018:** @[Andreas Henriksson](https://github.com/Nosskirneh) fixed USB 3.0 problem in a comment [here.](https://github.com/NTT123/Hackintosh-HP-Z420-MacOS-High-Sierra-10.13/issues/6#issuecomment-401310290)
 
 **Updated my macOS to 10.13.5 using App store without any problem.**
